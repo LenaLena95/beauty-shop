@@ -9,6 +9,12 @@ namespace BeautyShop
 {
     static class Program
     {
+<<<<<<< HEAD
+=======
+        
+        /// </summary>
+        [STAThread]
+>>>>>>> 9774f7ada8bb307bb4cb23f853da7d65ae7d19aa
         static void Main()
             {
                 Application.EnableVisualStyles();
